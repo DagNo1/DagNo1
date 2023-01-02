@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Addis Ababa
 * 👀 I’m interested in movies, series, games, and anime. 
 * 🧠  I'm learning Kotlin because I want to develop android applications and the syntax is just WOW.
-* 🤝  I'm open to collaborating on android application projects.
+* 🤝  I'm open to collaborating on android application projects and any project in the listed languages below.
 * ✉️  You can contact me at [dagimcodes@gmail.com](mailto:dagimcodes@gmail.com)
 
 ### Skills
