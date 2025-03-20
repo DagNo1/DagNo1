@@ -5,7 +5,7 @@ Mobile and Web developer
 ------------------------
 
 *   🌍  I'm based in Addis Ababa
-*   🖥️  See my portfolio at [dagimtesfaye.tech](https://dagimtesfaye.tech)
+*   🖥️  See my portfolio at [dagimtesfaye.dev](https://dagimtesfaye.dev)
 *   ✉️  You can contact me at [dagimcodes@gmail.com](mailto: dagimcodes@gmail.com)
 *   🧠  I'm learning Nextjs
 *   🤝  I'm open to collaborating on Mobile development projects using Kotlin or Flutter
