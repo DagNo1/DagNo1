@@ -1,14 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dagim Tesfaye Mebrate
 =============================================================================================================================================
-
-Mobile and Web developer
+Fullstack Developer
 ------------------------
 
 *   🌍  I'm based in Addis Ababa
 *   🖥️  See my portfolio at [dagimtesfaye.dev](https://dagimtesfaye.dev)
 *   ✉️  You can contact me at [dagimcodes@gmail.com](mailto: dagimcodes@gmail.com)
-*   🧠  I'm learning Nextjs
-*   🤝  I'm open to collaborating on Mobile development projects using Kotlin or Flutter
+*   🤝  I'm open to collaborating any project that might have real value.
 
 ### Skills 
 <p align="left">
